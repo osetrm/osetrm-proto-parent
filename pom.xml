@@ -15,7 +15,7 @@
         <maven.compiler.target>21</maven.compiler.target>
         <quarkus.version>3.13.3</quarkus.version>
         <grpc.version>1.66.0</grpc.version>
-        <protoc.version>4.27.4</protoc.version>
+        <protoc.version>4.28.2</protoc.version>
         <junit.version>5.11.0</junit.version>
     </properties>
     <dependencies>
